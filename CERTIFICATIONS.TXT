@@ -1,0 +1,5 @@
+1. ORACLE genAI
+2. Scaler dbms
+3. Cisco nwtworking.
+4. AWS CLOUD
+5. https://github.com/cloudcommunity/Free-Certifications
