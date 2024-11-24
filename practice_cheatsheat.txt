@@ -1,1 +1,3 @@
-https://docs.google.com/document/d/1mjSLwfHKRXneyqtaYj9H4MoEZYwfSx1y/edit  // most of tcs practice questions.
+1.  https://docs.google.com/document/d/1mjSLwfHKRXneyqtaYj9H4MoEZYwfSx1y/edit  // most of tcs practice questions.
+2.  https://www.geeksforgeeks.org/explore?page=1&sprint=94ade6723438d94ecf0c00c3937dad55&sortBy=submissions&sprint_name=Love%20Babbar%20Sheet&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header //LOVE BABBAR dsa cheatsheat.
+3.
