@@ -3,3 +3,4 @@
 3. Cisco nwtworking.
 4. AWS CLOUD
 5. https://github.com/cloudcommunity/Free-Certifications
+6. Scaler other
